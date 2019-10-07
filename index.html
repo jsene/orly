@@ -1,0 +1,33 @@
+<!DOCTYPE html><html><head>
+<title>Orly - un poème généré en temps réel - Joachim Séné</title/>
+<meta name="description" content="Poème généré en temps réel d'après les données météo et des vols autour de l'aéroport d'Orly." />    
+
+    <script src="p5.js"></script>
+    <script src="p5.dom.min.js"></script>
+    <script src="p5.sound.min.js"></script>
+     <link rel="stylesheet" media="screen" href="styles/fonts.css" type="text/css"/> 
+	 <link rel="stylesheet" type="text/css" href="styles/styles.css">
+    <meta charset="utf-8">
+  </head>
+  <body><div class="contenu" id="orly_texte">
+    <script src="scripts/bibjs.js"></script>
+    <script src="scripts/data.js"></script>
+    <script src="scripts/countries.js"></script>
+    <script src="phrases/phrases_sans_contexte.js"></script>
+    <script src="phrases/phrase.js"></script>
+    <script src="scripts/weather.js"></script>
+    <script src="scripts/flight.js"></script>
+    <script src="sketch.js"></script>
+	<h1>Orly</h1>
+  <div id="loading"><p>Lecture des données en cours...</p></div>
+  <div id="no_flight"></div>
+  <div id="credits" class="credits">
+Météo d'après <a href="https://openweathermap.org/">Open Weather Map</a>.
+Vols d'après <a href="https://opensky-network.org/">Open Sky Network</a> (Matthias Schäfer, Martin Strohmeier, Vincent Lenders, Ivan Martinovic, Matthias Wilhelm).
+Heures du soleil d'après <a href="https://api.sunrise-sunset.org">Sunset and sunrise times API</a>.
+<br>
+Fonte <a href="https://www.checkmyworking.com/cm-web-fonts/">TypeWriter</a>.
+En <a href="https://remue.net/orly">savoir plus</a>.
+</div>
+</div>
+</body></html>

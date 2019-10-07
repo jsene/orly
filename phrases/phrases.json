@@ -1,0 +1,1099 @@
+{
+  "datasetid": "Phrases pour Orly.",
+  "auteur": "Joachim Séné",
+  "version": "1.5",
+  "update": "lundi 7 octobre 2019",
+  "phrases": [
+    {
+      "phrase": "Le ciel était lourd",
+      "tags": "pression,ciel",
+      "valeurs":"haute pression,clouds,matin",
+	  "valeursauf": ""
+    }, 
+	{
+      "phrase": "Il faisait lourd",
+      "tags": "pression,ciel",
+      "valeurs":"haute pression,clouds,jour",
+	  "valeursauf": ""
+    }, 
+	{
+      "phrase": "Le ciel était lourd",
+      "tags": "pression,ciel",
+      "valeurs":"haute pression,clouds,soir",
+	  "valeursauf": ""
+    }, 
+	{
+      "phrase": "Le ciel pesait, étouffait",
+      "tags": "pression,ciel",
+      "valeurs":"haute pression,clouds,jour",
+	  "valeursauf": ""
+    }, 
+	{
+      "phrase": "Quelques nuages effilés, très hauts",
+      "tags": "pression,ciel",
+      "valeurs":"haute pression,clouds,jour",
+	  "valeursauf": ""
+    },
+	{
+      "phrase": "Un nuage isolé, gris, rond comme une flaque prête à tomber",
+      "tags": "pression,ciel",
+      "valeurs":"basse pression,clouds,jour",
+	  "valeursauf": ""
+    },
+	{
+	  "phrase": "Des nuages fragiles comme le jour qui se levait",
+	  "tags": "ciel",
+	  "valeurs": "scattered clouds,matin",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Des nuages fragiles couvraient le ciel",
+	  "tags": "ciel",
+	  "valeurs": "scattered clouds,jour",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Des nuages fragiles orangés",
+	  "tags": "ciel",
+	  "valeurs": "scattered clouds,soir",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Rares nuages en désordre",
+	  "tags": "ciel",
+	  "valeurs": "scattered clouds",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Les nuages étaient brisés",
+	  "tags": "ciel",
+	  "valeurs": "broken clouds",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Les nuages se défaisaient",
+	  "tags": "ciel",
+	  "valeurs": "broken clouds",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Le ciel déjà bien recouvert",
+	  "tags": "ciel",
+	  "valeurs": "overcast clouds,matin",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Le ciel bien recouvert",
+	  "tags": "ciel",
+	  "valeurs": "overcast clouds,jour",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "L'ombre des nuages, à l'Est, amenant la nuit",
+	  "tags": "ciel",
+	  "valeurs": "overcast clouds,soir",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Nuages se réunissant sans menacer encore",
+	  "tags": "ciel",
+	  "valeurs": "overcast clouds",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Il faisait gris",
+	  "tags": "ciel",
+	  "valeurs": "overcast clouds,matin",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Il faisait gris",
+	  "tags": "ciel",
+	  "valeurs": "overcast clouds,jour",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Il faisait gris",
+	  "tags": "ciel",
+	  "valeurs": "overcast clouds,soir",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "On attendait la pluie",
+	  "tags": "ciel",
+	  "valeurs": "overcast clouds,soir,matin,jour,nuit",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Quelques nuages cachaient peu d'avions",
+	  "tags": "ciel",
+	  "valeurs": "few clouds",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Des nuages moutonnaient le ciel",
+	  "tags": "ciel",
+	  "valeurs": "few clouds,soir,matin,jour",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Un temps incertain",
+	  "tags": "ciel",
+	  "valeurs": "few clouds,soir,matin,jour",
+	  "valeursauf": ""
+	},
+    {
+      "phrase": "Le ciel pesait",
+      "tags": "pression,ciel",
+      "valeurs":"haute pression,clouds,soir",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Le ciel pesait",
+      "tags": "pression,ciel",
+      "valeurs":"haute pression,clouds,matin",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Le ciel pesait",
+      "tags": "pression,ciel",
+      "valeurs":"haute pression,clouds,jour",
+	  "valeursauf": ""
+    },
+	{
+	  "phrase": "Ciel bleu adouci de petits nuages blancs",
+	  "tags": "pression,ciel",
+	  "valeurs": "normale pression,few clouds,jour",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "La chaleur épaisse répercutée par le bitume brûle et ralentissait tout",
+	  "tags": "pression,temperature,ciel",
+	  "valeurs": "haute pression,temperature canicule,clear sky,jour",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Un avion lacèrait d’une mince fente brillante la brume qui voilait le ciel à l’ouest",
+	  "tags": "vol,ciel",
+	  "valeurs": "altelevee,few clouds,soir",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Le vent faible peinait à faire oublier la chaleur du jour",
+	  "tags": "ciel,temperature,vent",
+	  "valeurs": "temperature canicule,clear sky,peu,soir",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Douceur trop fraîche pour être appréciée, il fallait attendre onze heures, peut-être midi",
+	  "tags": "ciel,temperature",
+	  "valeurs": "temperature fraiche,clear sky,matin",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Les bras chaleureux du soir, très haut un avion pour lequel il faisait encore jour",
+	  "tags": "ciel,temperature",
+	  "valeurs": "clear sky,soir,temperature chaude",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Cuisson, pure et simple, air immobile comme dans un four sans même la chaleur tournante, plus rien à décrire",
+	  "tags": "ciel,temperature",
+	  "valeurs": "clear sky,temperature canicule,jour",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Cuisson, pure et simple, air immobile comme dans un four sans même la chaleur tournante, plus rien à décrire",
+	  "tags": "ciel,temperature",
+	  "valeurs": "clear sky,temperature canicule,matin",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Cuisson, pure et simple, air immobile comme dans un four sans même la chaleur tournante, plus rien à décrire",
+	  "tags": "ciel,temperature",
+	  "valeurs": "clear sky,temperature canicule,soir",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Le ciel se couvrait enfin de nuages, mais ils sentaient les promesses non tenues ;il faisait encore aussi chaud qu’au fond d’un arrosoir sec",
+	  "tags": "ciel,temperature,vent",
+	  "valeurs": "peu,pas,few clouds,scattered clouds,temperature canicule",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Sous un ciel de boursouflures mauves et de trouées grises où pouvait enfin s’accrocher la pensée, sous cette lente chimie, un jappement triste",
+	  "tags": "ciel,temperature",
+	  "valeurs": "broken clouds,scattered clouds,temperature chaude,soir",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Par l’entremise des pluies, un peu du ciel avait déteint sur le sol, la fraîcheur était comme un regret qui s’estompe après une sourde colère.",
+	  "tags": "pluie,temperature",
+	  "valeurs": "light intensity shower rain,temperature moyenne,soir",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "La pluie battante faisait faire aux avions sur les pistes un crépitement liquide",
+	  "tags": "pluie",
+	  "valeurs": "shower rain",
+	  "valeursauf": ""
+	}, 
+	{
+	  "phrase": "La pluie soudaine aussitôt disparue",
+	  "tags": "pluie",
+	  "valeurs": "light intensity drizzle",
+	  "valeursauf": ""
+	}, 
+	{
+	  "phrase": "Quelque chose de désagréable, dans la soudaineté",
+	  "tags": "pluie",
+	  "valeurs": "light intensity drizzle",
+	  "valeursauf": ""
+	}, 
+	{
+	  "phrase": "Des nuages violets menaçaient",
+	  "tags": "pluie",
+	  "valeurs": "drizzle",
+	  "valeursauf": ""
+	}, 
+	{
+	  "phrase": "Au milieu des nuages perçait %uneanimal bleu ciel",
+	  "tags": "pluie",
+	  "valeurs": "drizzle",
+	  "valeursauf": ""
+	}, 
+	{
+	  "phrase": "Une bruine rafraîchissait les visages",
+	  "tags": "pluie,temperature",
+	  "valeurs": "light intensity drizzle,temperature fraiche",
+	  "valeursauf": ""
+	}, 
+	{
+	  "phrase": "Le temps avait sa violence",
+	  "tags": "pluie,temperature",
+	  "valeurs": "heavy intensity drizzle,temperature fraiche",
+	  "valeursauf": ""
+	}, 
+	{
+	  "phrase": "Une bruine glaçait les visages",
+	  "tags": "pluie,temperature",
+	  "valeurs": "light intensity drizzle,temperature froide",
+	  "valeursauf": ""
+	}, 
+	{
+	  "phrase": "Une bruine insistante pouvait soudain tomber",
+	  "tags": "pluie",
+	  "valeurs": "drizzle",
+	  "valeursauf": ""
+	}, 
+	{
+	  "phrase": "Une bruine glacée paralysait les corps",
+	  "tags": "pluie,temperature",
+	  "valeurs": "drizzle,temperature froide",
+	  "valeursauf": ""
+	}, 
+	{
+	  "phrase": "Nuages, draps tendus posés à plusieurs altitudes, brodés des traînées poudreuses des avions dont le grondement lointain ne s’éteignait jamais",
+	  "tags": "vol,ciel",
+	  "valeurs": "altelevee,scattered clouds",
+	  "valeursauf": ""
+	}, 
+	{
+	  "phrase": "Un ciel blanc, laiteux",
+	  "tags": "atmosphere,temperature",
+	  "valeurs": "haze,temperature fraiche",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Il y avait du brouillard",
+	  "tags": "atmosphere",
+	  "valeurs": "mist",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Il y avait du brouillard",
+	  "tags": "atmosphere",
+	  "valeurs": "fog",
+	  "valeursauf": ""
+	}, 
+	{
+	  "phrase": "Il pleuvait trois gouttes",
+	  "tags": "pluie",
+	  "valeurs": "light rain",
+	  "valeursauf": ""
+	}, 
+	{
+	  "phrase": "Il pleuvait",
+	  "tags": "pluie",
+	  "valeurs": "moderate rain"
+	}, 
+	{
+	  "phrase": "Il pleuvait à seau",
+	  "tags": "pluie",
+	  "valeurs": "heavy intensity rain",
+	  "valeursauf": ""
+	}, 
+	{
+	  "phrase": "Les voyageurs s'aventurant dehors rentraient trempés dans l'aéroport",
+	  "tags": "pluie",
+	  "valeurs": "heavy intensity rain",
+	  "valeursauf": ""
+	}, 
+	{
+	  "phrase": "C'était le déluge",
+	  "tags": "pluie",
+	  "valeurs": "extreme rain",
+	  "valeursauf": ""
+	}, 
+	{
+	  "phrase": "C'était le déluge",
+	  "tags": "pluie",
+	  "valeurs": "heavy intensity shower rain",
+	  "valeursauf": ""
+	}, 
+	{
+	  "phrase": "Il pleuvait averse",
+	  "tags": "pluie",
+	  "valeurs": "shower rain",
+	  "valeursauf": ""
+	}, 
+	{
+	  "phrase": "La pluie était glacée",
+	  "tags": "pluie,temperature",
+	  "valeurs": "freezing rain,temperature glacee",
+	  "valeursauf": ""
+	}, 
+	{
+	  "phrase": "L'averse était de glace",
+	  "tags": "pluie,temperature",
+	  "valeurs": "shower rain,temperature glacee",
+	  "valeursauf": ""
+	}, 
+	{
+	  "phrase": "Il neigeait",
+	  "tags": "pluie",
+	  "valeurs": "snow",
+	  "valeursauf": ""
+	}, 
+	{
+	  "phrase": "Il pleuvait",
+	  "tags": "pluie",
+	  "valeurs": "light intensity shower rain",
+	  "valeursauf": ""
+	}, 
+	{
+	  "phrase": "La pluie venait briser le murmure des moteurs",
+	  "tags": "pluie",
+	  "valeurs": "light intensity shower rain",
+	  "valeursauf": ""
+	}, 
+	{
+	  "phrase": "La pluie venait briser le murmure des moteurs",
+	  "tags": "pluie",
+	  "valeurs": "shower rain",
+	  "valeursauf": ""
+	}, 
+	{
+	  "phrase": "Une lourde pluie étouffait le bruit des avions",
+	  "tags": "pluie",
+	  "valeurs": "heavy rain",
+	  "valeursauf": ""
+	}, 
+	{
+	  "phrase": "Un nuage effilé, prenait forme %deanimal",
+	  "tags": "ciel",
+	  "valeurs": "scattered clouds",
+	  "valeursauf": ""
+	}, 
+	{
+	  "phrase": "Dans le ciel, des animaux faisaient la course : %troisanimaux...",
+	  "tags": "ciel",
+	  "valeurs": "scattered clouds",
+	  "valeursauf": ""
+	}, 
+	{
+	  "phrase": "Peu d'animaux passaient dans le ciel : %troisanimaux...",
+	  "tags": "ciel",
+	  "valeurs": "few clouds",
+	  "valeursauf": ""
+	}, 
+	{
+	  "phrase": "Parmi les nuages, %uneanimal s'échappait vers le sud",
+	  "tags": "ciel",
+	  "valeurs": "scattered clouds",
+	  "valeursauf": ""
+	}, 
+	{
+	  "phrase": "Au nord %uneanimal enflait parmi les nuages",
+	  "tags": "ciel",
+	  "valeurs": "scattered clouds",
+	  "valeursauf": ""
+	}, 
+	{
+	  "phrase": "Dans les nuages, immense, passait %uneanimal",
+	  "tags": "ciel",
+	  "valeurs": "few clouds",
+	  "valeursauf": ""
+	}, 
+	{
+	  "phrase": "Au-dessus de l'aéroport flottait un nuage en forme %deanimal",
+	  "tags": "ciel",
+	  "valeurs": "few clouds",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Un nuage en forme %deanimal s'effilochait",
+	  "tags": "ciel",
+	  "valeurs": "few clouds",
+	  "valeursauf": ""
+	},
+	{
+      "phrase": "La nuit était lourde",
+      "tags": "pression,ciel",
+      "valeurs":"haute pression,clouds,nuit",
+	  "valeursauf": ""
+    }, 
+	{
+      "phrase": "La nuit était aussi lourde que le jour",
+      "tags": "pression,ciel",
+      "valeurs":"haute pression,clouds,nuit",
+	  "valeursauf": ""
+    },
+	{
+	  "phrase": "Des nuages fragiles masquaient la nuit, qui aurait pu être étoilée, sans réverbère",
+	  "tags": "ciel",
+	  "valeurs": "scattered clouds,nuit",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Traces plus claires des nuages nocturnes",
+	  "tags": "ciel",
+	  "valeurs": "scattered clouds,nuit",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Les nuages se défaisaient, étendaient leurs bras comme des galaxies",
+	  "tags": "ciel",
+	  "valeurs": "broken clouds,nuit",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "La nuit était couverte",
+	  "tags": "ciel",
+	  "valeurs": "overcast clouds,nuit",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "La nuit, basse, uniforme",
+	  "tags": "ciel",
+	  "valeurs": "overcast clouds,nuit",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "On attendait la pluie",
+	  "tags": "ciel",
+	  "valeurs": "overcast clouds,soir,matin,jour",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Un lendemain incertain",
+	  "tags": "ciel",
+	  "valeurs": "few clouds,nuit",
+	  "valeursauf": ""
+	},
+    {
+      "phrase": "Un ciel clair",
+      "tags": "ciel",
+      "valeurs":"clear sky",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Le ciel pur, comme plus haut, intouchable",
+      "tags": "ciel",
+      "valeurs":"clear sky",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Un ciel si vide, comme pas de ciel",
+      "tags": "ciel",
+      "valeurs":"clear sky",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Il y avait de l'orage",
+      "tags": "ciel",
+      "valeurs": "storm",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Les éclairs frappaient les yeux et la pluie battait",
+      "tags": "ciel",
+      "valeurs": "storm",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "L'ouragan était proche",
+      "tags": "pression",  
+      "valeurs":"tempete pression,nuages",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "La tempête menaçait chaque vol",
+      "tags": "pression",  
+      "valeurs":"tempete pression,nuages",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Le temps était à l'orage",
+      "tags": "pression",  
+      "valeurs":"basse pression,nuages",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Le tonnerre se faisait attendre",
+      "tags": "pression",  
+      "valeurs":"basse pression,nuages",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Le temps était agréable",
+      "tags": "pression,temperature",  
+      "valeurs":"normale pression,nuages,temperature moyenne",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Le temps était plutôt agréable",
+      "tags": "pression,temperature",  
+      "valeurs":"normale pression,nuages,temperature fraiche",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "L'air était bon sur la peau",
+      "tags": "pression,temperature",  
+      "valeurs":"normale pression,nuages,temperature moyenne",
+	  "valeursauf": "rain,drizzle"
+    },
+    {
+      "phrase": "L'air était bon sur la peau, malgré la pluie",
+      "tags": "pression,temperature",  
+      "valeurs":"normale pression,nuages,temperature moyenne",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "L'air était bon, mais frais, sur la peau",
+      "tags": "pression,temperature",  
+      "valeurs":"normale pression,nuages,temperature fraiche",
+	  "valeursauf": "rain,drizzle"
+    },
+    {
+      "phrase": "Il faisait bon, comme une caresse",
+      "tags": "pression",  
+      "valeurs":"normale pression,nuages",
+	  "novaleurs": "rain",
+	  "valeursauf": "rain,drizzle"
+    },
+    {
+      "phrase": "Une météo sans rien à signaler",
+      "tags": "pression",  
+      "valeurs":"normale pression,nuages",
+	  "valeursauf": "rain,drizzle"
+    },
+    {
+      "phrase": "Une météo sans rien à signaler, sauf cette pluie triste",
+      "tags": "pression",  
+      "valeurs":"normale pression,nuages,rain,drizzle",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Un air léger, tranquille",
+      "tags": "pression,vent",  
+      "valeurs":"normale pression,nuages,peu",
+	  "valeursauf": "rain,drizzle"
+    },
+    {
+      "phrase": "Un air léger et agité",
+      "tags": "pression,vent",  
+      "valeurs":"normale pression,nuages,fort",
+	  "valeursauf": "rain,drizzle"
+    },
+    {
+      "phrase": "L'air agité, humide, désagréable",
+      "tags": "pression,vent",  
+      "valeurs":"normale pression,nuages,fort",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Le temps était sec",
+      "tags": "pression",  
+      "valeurs":"haute pression,nuages",
+	  "valeursauf": "rain,drizzle"
+    },
+    {
+      "phrase": "La sécheresse faisait mal",
+      "tags": "pression",  
+      "valeurs":"sec pression,nuages",
+	  "valeursauf": "rain,drizzle"
+    },
+    {
+      "phrase": "L'air était comme poussiéreux, asséchait la gorge",
+      "tags": "pression",  
+      "valeurs":"haute pression,nuages",
+	  "valeursauf": "rain,drizzle"
+    },
+    {
+      "phrase": "Il faisait froid",
+      "tags": "temp",
+      "valeurs": "temperature froide",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Il ne faisait pas chaud",
+      "tags": "temp",
+      "valeurs": "temperature froide",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Il faisait frais",
+      "tags": "temp",
+      "valeurs": "temperature fraiche",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "L'air frais était agréable",
+      "tags": "temp",
+      "valeurs": "temperature fraiche",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Un air doux",
+      "tags": "temp",
+      "valeurs": "temperature moyenne",
+	  "valeursauf": "rain,drizzle"
+    },
+    {
+      "phrase": "Un air doux que ne gâchait pas la pluie",
+      "tags": "temp",
+      "valeurs": "temperature moyenne",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "La veste était à peine de trop",
+      "tags": "temp",
+      "valeurs": "temperature moyenne",
+	  "valeursauf": "rain,drizzle"
+    },
+    {
+      "phrase": "Il aurait fallu penser à emporter une veste",
+      "tags": "temp",
+      "valeurs": "temperature moyenne,rain,drizzle",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Il faisait plutôt bon",
+      "tags": "temp",
+      "valeurs": "temperature moyenne",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Il faisait chaud",
+      "tags": "temp",
+      "valeurs": "temperature chaude",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Il faisait chaud, on aurait aimé de la pluie",
+      "tags": "temp",
+      "valeurs": "temperature chaude",
+	  "valeursauf": "rain,drizzle"
+    },
+    {
+      "phrase": "Il fallait s'habiller léger",
+      "tags": "temp",
+      "valeurs": "temperature chaude",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "La chaleur n'était pas insupportable, pour l'instant",
+      "tags": "temp",
+      "valeurs": "temperature chaude",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "C'était comme après la chaleur, quand ça retombe, ou avant. Mais comment savoir ?",
+      "tags": "temp",
+      "valeurs": "temperature chaude",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "La canicule semblait ralentir les avions",
+      "tags": "temp",
+      "valeurs": "temperature canicule",
+	  "valeursauf": "rain,drizzle"
+    },
+    {
+      "phrase": "Tropical",
+      "tags": "temp",
+      "valeurs": "temperature canicule,rain",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "C'était comme ces chaleurs qui empêche de bouger",
+      "tags": "temp",
+      "valeurs": "temperature canicule",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Il faisait froid",
+      "tags": "temp",
+      "valeurs": "temperature froide",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Il ne faisait pas chaud",
+      "tags": "temp",
+      "valeurs": "temperature froide",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "On avait plutôt froid",
+      "tags": "temp",
+      "valeurs": "temperature froide",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Une averse violente et glacée",
+      "tags": "ciel,temp",
+      "valeurs": "pluie, averse, temperature basse",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Les gouttes de pluie comme des gifles métalliques",
+      "tags": "ciel,temp",
+      "valeurs": "pluie, averse, temperature basse",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Le vent soufflait à %vent km/h",
+      "tags": "vent",
+      "valeurs": "fort",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Le vent soufflait à %vent km/h",
+      "tags": "vent",
+      "valeurs": "pas",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Le vent soufflait à %vent km/h",
+      "tags": "vent",
+      "valeurs": "peu",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Le vent soufflait à %vent km/h",
+      "tags": "vent",
+      "valeurs": "tempete",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Le vent soufflait fort",
+      "tags": "vent",
+      "valeurs": "fort",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Le vent ne soufflait pour ainsi dire pas du tout",
+      "tags": "vent",
+      "valeurs": "pas",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Le vent soufflait tranquillement",
+      "tags": "vent",
+      "valeurs": "peu",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Le vent soufflait à faire peur",
+      "tags": "vent",
+      "valeurs": "tempete",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Le vent, %vent km/h",
+      "tags": "vent",
+      "valeurs": "fort",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Le vent, %vent km/h",
+      "tags": "vent",
+      "valeurs": "pas",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Le vent, %vent km/h",
+      "tags": "vent",
+      "valeurs": "peu",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "La tempête, %vent km/h",
+      "tags": "vent",
+      "valeurs": "tempete",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Le vent soufflait trop",
+      "tags": "vent",
+      "valeurs": "fort",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Il n'y avait pas de vent",
+      "tags": "vent",
+      "valeurs": "pas",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "L'air caressait la peau",
+      "tags": "vent",
+      "valeurs": "peu",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "La puissance du vent inquiétait",
+      "tags": "vent",
+      "valeurs": "tempete",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Il faisait %temperature°C",
+      "tags": "temp",
+      "valeurs": "",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "%temperature°C à l'ombre",
+      "tags": "temp",
+      "valeurs": "",
+	  "valeursauf": ""
+    },
+	{
+	  "phrase" : "Le point clignotant du vol %vol sur fond de nuages assombris",
+	  "tags": "vol,ciel",
+	  "valeurs": "altmoyenne,soir,nuit,broken clouds",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase" : "Le phare du vol %vol éclairait certains nuages violets",
+	  "tags": "vol,ciel",
+	  "valeurs": "altmoyenne,soir,nuit,broken clouds",
+	  "valeursauf": ""
+	},
+    {
+      "phrase": "Le vol %vol décollait",
+      "tags": "vol",
+      "valeurs": "decollage",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Plus aucun avion, à cet instant, ne volait, ici",
+      "tags": "vol",
+      "valeurs": "rien"
+    },
+    {
+      "phrase": "Un silence impossible",
+      "tags": "vol",
+      "valeurs": "rien",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Le vol %vol atterrissait",
+      "tags": "vol",
+      "valeurs": "atterrissage",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Le vol %vol s'approchait",
+      "tags": "vol",
+      "valeurs": "atterrissage",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Il aurait fallu voir si le train d'atterrissage était sorti ou non",
+      "tags": "vol",
+      "valeurs": "atterrissage",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Le vol %vol était sur le point de décoller",
+      "tags": "vol",
+      "valeurs": "decollage",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Que voyait-on vraiment en voyant un avion voler à cette altitude ?",
+      "tags": "vol",
+      "valeurs": "decollage",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Le vol %vol en provenance de %origine allait se poser",
+      "tags": "vol,origine",
+      "valeurs": "atterrissage",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "L'avion numéroté %vol était venu d'où ? %origine ?",
+      "tags": "vol,origine",
+      "valeurs": "atterrissage",
+	  "valeursauf": ""
+    },
+	{
+	  "phrase": "Le vol %vol tournait autour d'Orly à %altitude mètres en attendant son tour",
+	  "tags": "vol",
+	  "valeurs": "altmoyenne",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Le vol %vol décollait, ou allait atterrir, non loin d'ici, mais pas ici",
+	  "tags": "vol",
+	  "valeurs": "altmoyenne",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Le vol %vol attendait, ne descendait pas encore, venu de %origine",
+	  "tags": "vol,origine",
+	  "valeurs": "altmoyenne",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Un pays (%origine), un aéroport d'arrivée (Orly), et une hésitation, dans l'altitude",
+	  "tags": "vol,origine",
+	  "valeurs": "altmoyenne",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Venu de %origine le vol %vol survolait Orly, de très haut, sans s'y arrêter",
+	  "tags": "vol,origine",
+	  "valeurs": "altelevee",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Un vol passait à %altitude mètres, ignorant les pistes ici bas",
+	  "tags": "vol",
+	  "valeurs": "altelevee",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Le vol %vol était assez haut pour laisser trace dans le ciel",
+	  "tags": "vol",
+	  "valeurs": "altelevee",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Le vol %vol à destination de %destination passait à %altitude mètres d'altitude",
+	  "tags": "vol,destination",
+	  "valeurs": "altelevee",
+	  "valeursauf": ""
+	},
+    {
+      "phrase": "Le vol %vol était presqu'arrivé",
+      "tags": "vol",
+      "valeurs": "atterrissage",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Le vol %vol se posait",
+      "tags": "vol",
+      "valeurs": "atterrissage",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Le vol %vol n'en finissait pas de descendre, semblait-il de loin",
+      "tags": "vol",
+      "valeurs": "atterrissage",
+	  "valeursauf": ""
+    },
+	{
+     "phrase": "Le bruit de lente chute",
+      "tags": "vol",
+      "valeurs": "altmoyenne,descend",
+	  "valeursauf": ""
+ 	},
+	{
+     "phrase": "Ce bruit de chute, lointain et puissant, qui envahissait le ciel, inquiétant comme si la Terre tombait",
+      "tags": "vol",
+      "valeurs": "altmoyenne,descend",
+	  "valeursauf": ""
+ 	},
+    {
+      "phrase": "Le vol %vol se dirigeait vers sa piste",
+      "tags": "vol",
+      "valeurs": "decollage",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "La forme des ailes, la puissance des réacteurs, allaient soulever le vol %vol",
+      "tags": "vol",
+      "valeurs": "decollage",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "On savait d'où venait le vol %vol, %origine. Mais où allait-il ?",
+      "tags": "vol,origine",
+      "valeurs": "atterrissage",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "%vol en provenance de %origine, à peu près",
+      "tags": "vol,origine",
+      "valeurs": "atterrissage",
+	  "valeursauf": ""
+    },
+	{
+	  "phrase": "Le vol %vol était à %altitude mètres à proximité de l'aéroport",
+	  "tags": "vol",
+	  "valeurs": "altmoyenne",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Le vol %vol était dans un entre deux du ciel, à %altitude mètres",
+	  "tags": "vol",
+	  "valeurs": "altmoyenne",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "On s'amusait à deviner le plan de vol du vol %vol, on se demandait s'il venait de %origine",
+	  "tags": "vol,origine",
+	  "valeurs": "altmoyenne",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Les avions volaient si bas depuis quelques temps",
+	  "tags": "vol,origine",
+	  "valeurs": "altmoyenne",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Le vol %vol (%origine) passait très haut, très petit",
+	  "tags": "vol,origine",
+	  "valeurs": "altelevee",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Un vol à %altitude mètres, qu'on pouvait ne pas voir",
+	  "tags": "vol",
+	  "valeurs": "altelevee",
+	  "valeursauf": ""
+	},
+	{
+	  "phrase": "Le vol %vol survolait Orly très haut pour rejoindre %destination",
+	  "tags": "vol,destination",
+	  "valeurs": "altelevee",
+	  "valeursauf": ""
+	}
+  ]
+}

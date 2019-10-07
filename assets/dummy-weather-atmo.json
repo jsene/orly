@@ -1,0 +1,43 @@
+{
+	"coord": {
+		"lon": 2.4,
+		"lat": 48.75
+	},
+	"weather": [
+		{
+			"id": 800,
+			"main": "mist",
+			"description": "haze",
+			"icon": "01d"
+		}
+	],
+	"base": "stations",
+	"main": {
+		"temp": 7.3,
+		"pressure": 1009,
+		"humidity": 68,
+		"temp_min": 3.44,
+		"temp_max": 18
+	},
+	"visibility": 10000,
+	"wind": {
+		"speed": 11,
+		"deg": 110
+	},
+	"clouds": {
+		"all": 0
+	},
+	"dt": 1566887090,
+	"sys": {
+		"type": 1,
+		"id": 6548,
+		"message": 0.008,
+		"country": "FR",
+		"sunrise": 1566881990,
+		"sunset": 1566931482
+	},
+	"timezone": 7200,
+	"id": 6455343,
+	"name": "Orly",
+	"cod": 200
+}

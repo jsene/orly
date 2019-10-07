@@ -1,0 +1,30 @@
+{
+  "datasetid": "Phrases pour Orly.",
+  "auteur": "Joachim Séné",
+  "phrases": [
+    {
+      "phrase": "Le ciel était lourd",
+      "tags": "pression,ciel",
+      "valeurs":"haute pression,clouds,matin",
+	  "valeursauf": "rain"
+    }, 
+    {
+      "phrase": "Il faisait bon, comme une caresse",
+      "tags": "pression",  
+      "valeurs":"normale pression,nuages",
+	  "valeursauf": "rain,drizzle"
+    },
+    {
+      "phrase": "Une météo sans rien à signaler",
+      "tags": "pression",  
+      "valeurs":"normale pression,nuages",
+	  "valeursauf": "rain,drizzle"
+    },
+    {
+      "phrase": "Le temps était gâché par la pluie",
+      "tags": "pression",  
+      "valeurs":"normale pression,nuages",
+	  "valeursauf": ""
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "datasetid": "Phrases pour Orly.",
+  "auteur": "Joachim Séné",
+  "phrases": [
+    {
+      "phrase": "Le vol %vol décollait",
+      "tags": "vol",
+      "valeurs": "decollage"
+    },
+    {
+      "phrase": "Plus aucun avion, à cet instant, ne volait, ici",
+      "tags": "vol",
+      "valeurs": "rien"
+    },
+    {
+      "phrase": "Un silence impossible",
+      "tags": "vol",
+      "valeurs": "rien"
+    },
+    {
+      "phrase": "Le vol %vol atterrissait",
+      "tags": "vol",
+      "valeurs": "atterrissage"
+    },
+    {
+      "phrase": "Le vol %vol s'approchait",
+      "tags": "vol",
+      "valeurs": "atterrissage"
+    },
+    {
+      "phrase": "Il aurait fallu voir si le train d'atterrissage était sorti ou non",
+      "tags": "vol",
+      "valeurs": "atterrissage"
+    },
+    {
+      "phrase": "Le vol %vol était sur le point de décoller",
+      "tags": "vol",
+      "valeurs": "decollage"
+    },
+    {
+      "phrase": "Que voyait-on vraiment en voyant un avion voler à cette altitude ?",
+      "tags": "vol",
+      "valeurs": "decollage"
+    },
+    {
+      "phrase": "Le vol %vol en provenance de %origine allait se poser",
+      "tags": "vol,origine",
+      "valeurs": "atterrissage"
+    },
+    {
+      "phrase": "L'avion numéroté %vol était venu d'où ? %origine ?",
+      "tags": "vol,origine",
+      "valeurs": "atterrissage"
+    },
+	{
+	  "phrase": "Le vol %vol tournait autour d'Orly à %altitude mètres en attendant son tour",
+	  "tags": "vol",
+	  "valeurs": "altmoyenne"
+	},
+	{
+	  "phrase": "Le vol %vol décollait, ou allait atterrir, non loin d'ici, mais pas ici",
+	  "tags": "vol",
+	  "valeurs": "altmoyenne"
+	},
+	{
+	  "phrase": "Le vol %vol attendait, ne descendait pas encore, venu de %origine",
+	  "tags": "vol,origine",
+	  "valeurs": "altmoyenne"
+	},
+	{
+	  "phrase": "Un pays (%origine), un aéroport d'arrivée (Orly), et une hésitation, dans l'altitude",
+	  "tags": "vol,origine",
+	  "valeurs": "altmoyenne"
+	},
+	{
+	  "phrase": "Venu de %origine le vol %vol survolait Orly, de très haut, sans s'y arrêter",
+	  "tags": "vol,origine",
+	  "valeurs": "altelevee"
+	},
+	{
+	  "phrase": "Un vol passait à %altitude mètres, ignorant les pistes ici bas",
+	  "tags": "vol",
+	  "valeurs": "altelevee"
+	},
+	{
+	  "phrase": "Le vol %vol était assez haut pour laisser trace dans le ciel",
+	  "tags": "vol",
+	  "valeurs": "altelevee"
+	},
+	{
+	  "phrase": "Le vol %vol à destination de %destination passait à %altitude mètres d'altitude",
+	  "tags": "vol,destination",
+	  "valeurs": "altelevee"
+	},
+    {
+      "phrase": "Le vol %vol était presqu'arrivé",
+      "tags": "vol",
+      "valeurs": "atterrissage"
+    },
+    {
+      "phrase": "Le vol %vol se posait",
+      "tags": "vol",
+      "valeurs": "atterrissage"
+    },
+    {
+      "phrase": "Le vol %vol n'en finissait pas de descendre, semblait-il de loin",
+      "tags": "vol",
+      "valeurs": "atterrissage"
+    },
+	{
+     "phrase": "Le bruit de lente chute",
+      "tags": "vol",
+      "valeurs": "altmoyenne,descend"
+ 	},
+    {
+      "phrase": "Le vol %vol se dirigeait vers sa piste",
+      "tags": "vol",
+      "valeurs": "decollage"
+    },
+    {
+      "phrase": "La forme des ailes, la puissance des réacteurs, allaient soulever le vol %vol",
+      "tags": "vol",
+      "valeurs": "decollage"
+    },
+    {
+      "phrase": "On savait d'où venait le vol %vol, %origine. Mais où allait-il ?",
+      "tags": "vol,origine",
+      "valeurs": "atterrissage"
+    },
+    {
+      "phrase": "%vol en provenance de %origine, à peu près",
+      "tags": "vol,origine",
+      "valeurs": "atterrissage"
+    },
+	{
+	  "phrase": "Le vol %vol était à %altitude mètres à proximité de l'aéroport",
+	  "tags": "vol",
+	  "valeurs": "altmoyenne"
+	},
+	{
+	  "phrase": "Le vol %vol était dans un entre deux du ciel, à %altitude mètres",
+	  "tags": "vol",
+	  "valeurs": "altmoyenne"
+	},
+	{
+	  "phrase": "On s'amusait à deviner le plan de vol du vol %vol, on se demandait s'il venait de %origine",
+	  "tags": "vol,origine",
+	  "valeurs": "altmoyenne"
+	},
+	{
+	  "phrase": "Les avions volaient si bas depuis quelques temps",
+	  "tags": "vol,origine",
+	  "valeurs": "altmoyenne"
+	},
+	{
+	  "phrase": "Le vol %vol (%origine) passait très haut, très petit",
+	  "tags": "vol,origine",
+	  "valeurs": "altelevee"
+	},
+	{
+	  "phrase": "Un vol à %altitude mètres, qu'on pouvait ne pas voir",
+	  "tags": "vol",
+	  "valeurs": "altelevee"
+	},
+	{
+	  "phrase": "Le vol %vol survolait Orly très haut pour rejoindre %destination",
+	  "tags": "vol,destination",
+	  "valeurs": "altelevee"
+	}
+  ]
+}
