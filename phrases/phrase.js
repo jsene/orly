@@ -48,9 +48,12 @@ class Phrase {
 	let ok = 1;
 	// Nuages  
 	if(this.tags.indexOf('ciel')>-1) {
-		if(this.valeurs.indexOf(meteo.ciel)!=-1){
-			ok *=1;
-		} else { ok *=0; }
+		if(this.checkValeurListeInMeteoString(meteo.ciel, this.valeurs)) {
+			ok *= 1;
+		}
+		else {
+			ok *= 0;
+		}
 		// TODO jour matin nuit etc.
 		if(this.valeurs.indexOf('matin')!=-1) {
 			if(meteo.heures_depuis_lever_du_soleil <1.5) {
@@ -75,15 +78,21 @@ class Phrase {
 	}
 	// Pluie 
 	if(this.tags.indexOf('pluie')>-1) {
-		if(this.valeurs.indexOf(meteo.ciel)!=-1){
-			ok *=1;
-		} else { ok *=0; }
+		if(this.checkValeurListeInMeteoString(meteo.ciel, this.valeurs)) {
+			ok *= 1;
+		}
+		else {
+			ok *= 0;
+		}
 	}
 	// Atmosphere 
 	if(this.tags.indexOf('atmosphere')>-1) {
-		if(this.valeurs.indexOf(meteo.ciel)!=-1){
-			ok *=1;
-		} else { ok *=0; }
+		if(this.checkValeurListeInMeteoString(meteo.ciel, this.valeurs)) {
+			ok *= 1;
+		}
+		else {
+			ok *= 0;
+		}
 	}
 	// Vent
 	if(this.tags.indexOf('vent')>-1) {
@@ -225,6 +234,17 @@ class Phrase {
 		}
 	}
 	return ok==1;
+  }
+  
+  // Retourne true si une des valeurs de la liste est dans la chaine meteo 
+  checkValeurListeInMeteoString(meteoStr, listeValeur) {
+	let arr = listeValeur.split(",");
+	for(let i = 0; i < arr.length; i++) {
+		if(meteoStr.indexOf(arr[i]) > -1) {
+			return true
+		}
+	}
+	return false;
   }
   
   // Écrit la phrase si elle est valide p/r aux données
