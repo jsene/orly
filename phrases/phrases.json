@@ -559,13 +559,25 @@
       "phrase": "Le temps était agréable",
       "tags": "pression,temperature",  
       "valeurs":"normale pression,nuages,temperature moyenne",
+	  "valeursauf": "rain,drizzle"
+    },
+    {
+      "phrase": "Il n'y avait que cette petite pluie, insistante",
+      "tags": "pression,pluie,temperature",  
+      "valeurs":"normale pression,nuages,temperature moyenne,light intensity drizzle",
+	  "valeursauf": ""
+    },
+    {
+      "phrase": "Il n'y avait que cette pluie sans fin",
+      "tags": "pression,pluie,temperature",  
+      "valeurs":"normale pression,nuages,temperature moyenne,moderate rain",
 	  "valeursauf": ""
     },
     {
       "phrase": "Le temps était plutôt agréable",
       "tags": "pression,temperature",  
       "valeurs":"normale pression,nuages,temperature fraiche",
-	  "valeursauf": ""
+	  "valeursauf": "rain,drizzle"
     },
     {
       "phrase": "L'air était bon sur la peau",
@@ -617,9 +629,15 @@
 	  "valeursauf": "rain,drizzle"
     },
     {
-      "phrase": "L'air agité, humide, désagréable",
+      "phrase": "L'air agité, humide, désagréable, il ne manquait plus que la pluie",
       "tags": "pression,vent",  
       "valeurs":"normale pression,nuages,fort",
+	  "valeursauf": "rain,drizzle"
+    },
+    {
+      "phrase": "L'air agité, humide, désagréable",
+      "tags": "pluie,pression,vent",  
+      "valeurs":"normale pression,nuages,fort,shower",
 	  "valeursauf": ""
     },
     {
